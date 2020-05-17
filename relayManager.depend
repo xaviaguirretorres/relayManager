@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1589650796 source:c:\users\user\developer\ws_codeblocks\relaymanager\src\virtualcomport.c
+	<stdio.h>
+	<stdbool.h>
+	<windows.h>
+	"main.h"
+	"virtualComPort.h"
+
+1589645968 c:\users\user\developer\ws_codeblocks\relaymanager\inc\main.h
+
+1589650844 c:\users\user\developer\ws_codeblocks\relaymanager\inc\virtualcomport.h
+	<windows.h>
+	<stdbool.h>
+	<stdint.h>
+

@@ -253,6 +253,7 @@ static int parseArgs( int argc, char *argv[] )
       fprintf( stdout, " [%s n]    (OPTIONAL, n=COM port number. It is set %d by default)\n\n", ARG_COM_PORT, COM_PORT_DEFAULT );
       return 1;
    }
+
    // Loop to parse arguments
    while( argn < argc )
    {
