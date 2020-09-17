@@ -24,7 +24,7 @@
 #define RELAYS_MANAGER_HEADER_MSG   "------------------------------------------------------\n" \
                                     "| RELAY MANAGER                                      |\n" \
                                     "------------------------------------------------------\n"
-
+#define SOFTWARE_VERSION            "2.0"
 #define MAX_RELAYS_PER_BOARD			8
 #define MAX_BOARDS_IN_RS485_CHAIN	15
 #define MAX_RELAYS_IN_RS485_CHAIN	( MAX_RELAYS_PER_BOARD * MAX_BOARDS_IN_RS485_CHAIN )

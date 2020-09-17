@@ -84,7 +84,9 @@ int main( int argc, char *argv[] )
 {
    // Write header
    fprintf( stdout, RELAYS_MANAGER_HEADER_MSG );
-
+   fprintf( stdout, "SOFTWARE_VERSION: " );
+   fprintf( stdout, SOFTWARE_VERSION  );
+   fprintf( stdout, "\n" );
 
    // Set frames for open/close messages
    char openRelayMess[_FRAME_LENGTH+1];            // Create an array to hold a single openRelay message  [0xFF,0xXX,0x01]

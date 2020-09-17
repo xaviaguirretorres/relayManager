@@ -41,6 +41,7 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>
+			<editor_config active="1" use_tabs="0" tab_indents="1" tab_width="3" indent="3" eol_mode="0" />
 			<lib_finder disable_auto="1" />
 		</Extensions>
 	</Project>
