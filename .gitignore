@@ -52,5 +52,5 @@ Mkfile.old
 dkms.conf
 *.depend
 *.layout
-*.layout
 relayManager.layout
+relayManager.depend
