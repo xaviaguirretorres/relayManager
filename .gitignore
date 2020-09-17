@@ -53,7 +53,5 @@ dkms.conf
 relayManager.layout
 *.layout
 *.depend
-*.depend
-*.depend
-*.layout
-*.depend
+relayManager.layout
+relayManager.depend
