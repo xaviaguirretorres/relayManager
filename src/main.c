@@ -34,6 +34,7 @@
 #define _MAX_RELAY_RANGE      7
 
 
+
 /* Private variables -------------------------------------------------------------------------------------------------*/
 // Virtual COM port settings
 static int  _baudrate         = BAUD_RATE_DEFAULT; // Variable to set the baudrate of the UART connection
